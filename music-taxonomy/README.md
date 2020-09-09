@@ -18,3 +18,7 @@ A: Try this:
 * Clear the server cache (I use WP Super Cache)
 * Clear your browser's cache
 * Reload the web page
+
+## Versions
+
+1.0 Fall 2020 3rd Semester UX Specialization
