@@ -29,7 +29,7 @@ $args = [
 	'show_admin_column' => true,
 	'query_var'         => true,
 	'rewrite'           => ['slug' => 'music'],
-	'show_in_rest'      => TRUE,
+	'show_in_rest'      => TRUE, // will make the taxonomy visible in block editors
 	'has_archive'      => true,
 ];
 register_taxonomy('music', ['post'], $args);
