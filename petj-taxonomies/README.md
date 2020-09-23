@@ -1,11 +1,14 @@
-# Per's Music Taxonomy
+# Per's Taxonomy
 
-Taxonomies are an attempt to create order on your web page. 
-Music and the plethora of genres and subgenres is a good example.
+Taxonomies are an attempt to create order on your web page.
+On Multimusen I need to split danish and english articles.
+And probably more than that.
+
+This branch is used for Multimusen.dk's taxonomies.
 
 ## How to use this plugin
 
-Upload the files music-taxonomy.php and index.php  to your domain host.
+Upload the files taxonomies.php and index.php  to your domain host.
 Alternatively you can zip them and upload the zip via your Dashboard.
 
 ## Troubleshooting
@@ -21,4 +24,5 @@ A: Try this:
 
 ## Versions
 
+2.0 Bespoke version for Multimusen.dk
 1.0 Fall 2020 3rd Semester UX Specialization
