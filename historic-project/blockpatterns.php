@@ -4,7 +4,7 @@
 * Description: For a historical project
 * Version: 1.0
 * Author: Per Thykjær Jensen
-* Author URI: https://github.com/asathoor/plugins/historic-project
+* Author URI: https://github.com/asathoor/plugins/tree/master/historic-project
 */
 
 /**
