@@ -8,9 +8,11 @@ Hierarchical taxonomies for WordPress. Probably you'll adapt it to your site, an
 
 *Case:* For instance my website [Multimusen.dk](https://multimusen.dk/) has posts in Danish and English. I use taxonomies in order to separate Danish and English content.
 
+For more information see  []()
+
 ## Custom post types
 
-Experimental: editor in the dashboard for certain post types.
+Experimental: editor in the dashboard for certain post types. For more information and tweaks see  [WP Developer's Handbook](https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/) and [register_post_types](https://developer.wordpress.org/reference/functions/register_post_type/)
 
 # How to Install the Plugins
 
