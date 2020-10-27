@@ -23,8 +23,6 @@ if ( function_exists( 'register_block_pattern_category' ) ) {
  * II) Register Blocks
  **/
 
-if ( register_block_pattern ) { // test functionality
-
   // sample: Tycho Brahe
   $tychoBrahe = '<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis: 33.33%;"> <figure class="wp-block-image size-large is-style-default"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tycho_Brahe.JPG/440px-Tycho_Brahe.JPG" alt="" /> <figcaption>Tycho Brahe wearing the Order of the Golden Vlees.</figcaption></figure></div><div class="wp-block-column" style="flex-basis: 66.66%;"> <figure class="wp-block-table"><table><tbody><tr><td>Born</td><td>1546</td></tr><tr><td>Dies</td><td>1601</td></tr></tbody></table> </figure><h2>Astrologer and Alchemist</h2> Tycho Brahe was ...</div></div>';
 
@@ -53,4 +51,3 @@ if ( register_block_pattern ) { // test functionality
       )
   );
 
-}  // .portrait-description
