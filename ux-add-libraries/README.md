@@ -52,3 +52,7 @@ Try this in a post or page, as a proof of concept (note the position:relative st
 } )( jQuery ); // protected mode end
 </script>
 ~~~~
+
+# Animate css
+
+Try to add a class when the user clicks an element. Then use Animate CSS accorting to the instructions on the site. I did not try this out, but in theory it *should* work.
