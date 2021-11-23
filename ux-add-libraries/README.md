@@ -44,14 +44,15 @@ Add the following in a custom HTML block either on a post or page, as a proof of
    $( document ).ready(function() { // DOM ready
     console.log( "ready!" );
 
-   ////
+   //// your code here ////
+
      $('#mouse').click( function(){
           $('#mouse').animate({left: '250px'}, 400)
           $('#mouse').hide(300)
      } )
-   ////
+   //// your code end ////
 
-   })
+   }) // end DOM ready function
 
 } )( jQuery ); // protected mode end
 </script>
