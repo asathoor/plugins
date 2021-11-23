@@ -27,7 +27,7 @@ Download the zip, and install the plugin via the WordPress Dashboard > Plugins >
 
 # Use jQuery
 
-Try this in a post or page, as a proof of concept (note the position:relative style on the image tag):
+Add the following in a custom HTML block either on a post or page, as a proof of concept (note the position:relative style on the image tag):
 
 ~~~~
 <img
