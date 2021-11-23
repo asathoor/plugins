@@ -21,6 +21,10 @@ Sample script, add this in a custom HTML field:
 </script>
 ~~~~
 
+# Install the plugin
+
+Download the zip, and install the plugin via the WordPress Dashboard > Plugins > Add New
+
 # Use jQuery
 
 Try this in a post or page, as a proof of concept (note the position:relative style on the image tag):
