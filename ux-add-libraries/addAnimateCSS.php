@@ -17,9 +17,7 @@ Corrected quotation marks.
 
 /* Create a function */
 function petj_add_jq_and_animate(){
-  // wp_enqueue_script( 'script-name', get_template_directory_uri() . '/js/example.js', array(), '1.0.0', true );
-  // https://code.jquery.com/jquery-3.6.0.min.js
-
+  
   // add jQuery
   wp_enqueue_script( 'petj-jQuery', 'https://code.jquery.com/jquery-3.6.0.min.js', array(), '3.6.0', true );
 
