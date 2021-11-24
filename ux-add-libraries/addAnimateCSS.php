@@ -24,7 +24,7 @@ function petj_add_jq_and_animate(){
   wp_enqueue_script( 'petj-jQuery', 'https://code.jquery.com/jquery-3.6.0.min.js', array(), '3.6.0', true );
 
   // add CSS library
-  style( 'petj-animate-css', 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css', array(), '4.1.1', true );
+  style( 'petj-animate-css', 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css', array(), '4.1.1', all );
 }
 
 /* Add the "action" */
