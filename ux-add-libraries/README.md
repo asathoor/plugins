@@ -61,3 +61,13 @@ Add the following in a custom HTML block either on a post or page, as a proof of
 # Animate css
 
 Try to add a class when the user clicks an element. Then use Animate CSS accorting to the instructions on the site. I did not try this out, but in theory it *should* work.
+
+Try to add these lines to a costum HTML block. In this case we use Vanilla JavaScript:
+
+~~~~
+<img id="ufo" src="https://freesvg.org/storage/img/thumb/1412358533.png" style="position:relative">
+
+<script>
+ufo.classList.add('animate__animated', 'animate__bounceOutLeft');
+</script>
+~~~~
